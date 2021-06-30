@@ -2,7 +2,7 @@ import React from 'react';
 import Animal from './Animal';
 import './AnimalList.css';
 
-function Animallist() {
+function AnimalList() {
 
     const lion = {
         name: "Simba",
@@ -34,4 +34,4 @@ function Animallist() {
     )
 }
 
-export default Animallist;
+export default AnimalList;

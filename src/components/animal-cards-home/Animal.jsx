@@ -6,8 +6,10 @@ function Animal({name, species, age, image}) {
         <div className="animal">
             <div className="animals-cards">
                 <img className="animal-img" src={image} alt={name} />
-                <div>
-
+                <div className="animal-desc">
+                    <h3>{name}</h3>
+                    <span>Espéce: {species} </span>
+                    <span>Âge : {age} </span>
                 </div>
             </div>
         </div>
