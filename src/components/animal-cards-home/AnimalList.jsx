@@ -5,22 +5,22 @@ import './AnimalList.css';
 function AnimalList() {
 
     const lion = {
-        name: "Simba",
-        species: "lion",
+        name: "Elle",
+        species: "La Fille",
         age: 2,
-        image:"https://media.tenor.com/images/c6edf1156751130557323cb653d11a49/tenor.gif"
+        image:"https://thumbs.gfycat.com/AncientGleamingElephant-max-1mb.gif"
     }
     const Pangolin = {
         name: "Bart",
-        species: "singe",
+        species: "Le Father",
         age: 24,
-        image:"https://media.tenor.com/images/c6edf1156751130557323cb653d11a49/tenor.gif"
+        image:"https://vl-media.fr/wp-content/uploads/2018/04/homer-simpson-reading-GIF-source.gif"
     }
     const Poule = {
-        name: "Grenouille",
+        name: "Le sex-Shope",
         species: "barbapapa",
-        age: 9,
-        image:"https://media.tenor.com/images/c6edf1156751130557323cb653d11a49/tenor.gif"
+        age: "+19",
+        image:"https://media2.giphy.com/media/QN47aXlr2F1DEw1o4M/200.webp?cid=ecf05e47bnwvx250v9xb1osdoh7fem2nsq3k6wt8ca8pni0v&rid=200.webp&ct=g"
     }
     return (
         <div className="AnimalList">
