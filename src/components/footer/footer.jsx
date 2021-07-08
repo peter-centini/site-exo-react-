@@ -22,8 +22,8 @@ function Footer() {
                 <div className="footer-column footer-column-social"> 
                  <h4>Reseau social</h4> 
                    <div className="social-links">
-                    <a href=""> <FaFacebook/></a>
-                     <a href=""> <FaInstagramSquare/></a>
+                    <a> <FaFacebook/></a>
+                     <a> <FaInstagramSquare/></a>
                      <a> <FaTwitterSquare/></a>
                      </div>
                 </div>
