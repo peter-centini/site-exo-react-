@@ -1,0 +1,48 @@
+.footer {
+    height: 20vh;
+    background-color: var(--second-color);
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+
+}
+
+.footer-column-container {
+display: flex;
+justify-content: space-between;
+width: 60%;
+margin: auto;
+}
+
+.footer-column {
+    color: var(--main-color);
+    text-align: center;
+    font-size: 1.2em;
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+.footer-column h4 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.social-links {
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.5em;
+}
+
+.social-links a:hover {
+    color: var(--fourth-color);
+
+}
+
+.greeting {
+    color: var(--main-color);
+    text-align: center;
+    padding-bottom: 20px;
+
+}

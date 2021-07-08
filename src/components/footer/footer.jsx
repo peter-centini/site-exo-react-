@@ -22,9 +22,9 @@ function Footer() {
                 <div className="footer-column footer-column-social"> 
                  <h4>Reseau social</h4> 
                    <div className="social-links">
-                    <a> <FaFacebook/></a>
-                     <a> <FaInstagramSquare/></a>
-                     <a> <FaTwitterSquare/></a>
+                    <a href="/"> <FaFacebook/></a>
+                     <a href="/"> <FaInstagramSquare/></a>
+                     <a href="/"> <FaTwitterSquare/></a>
                      </div>
                 </div>
             </div>
