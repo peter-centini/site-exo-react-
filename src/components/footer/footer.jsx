@@ -1,5 +1,6 @@
 import React from 'react';
-import  './footer.css';
+import  './Footer.css';
+import { FaFacebook, FaInstagramSquare, FaTwitterSquare } from 'react-icons/fa';
 
 
 
@@ -19,11 +20,15 @@ function Footer() {
 
                 </div>
                 <div className="footer-column footer-column-social"> 
-                <h4>Reseau social</h4> 
-
+                 <h4>Reseau social</h4> 
+                   <div className="social-links">
+                    <a href=""> <FaFacebook/></a>
+                     <a href=""> <FaInstagramSquare/></a>
+                     <a> <FaTwitterSquare/></a>
+                     </div>
                 </div>
             </div>
-            <p className="greeting"> Made whit </p>
+            <p className="greeting"> Made whit 👀 </p>
         </div>
     )
 }
