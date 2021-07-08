@@ -22,6 +22,8 @@ function AnimalList() {
         age: "+19",
         image:"https://media2.giphy.com/media/QN47aXlr2F1DEw1o4M/200.webp?cid=ecf05e47bnwvx250v9xb1osdoh7fem2nsq3k6wt8ca8pni0v&rid=200.webp&ct=g"
     }
+
+    
     return (
         <div className="AnimalList">
           <h2 className="section-title AnimalList-title">Venez faire de belle rencontres!</h2>

@@ -7,10 +7,9 @@ function navbar() {
         <div className="Navbar">
             <a href="/">< img className="logo" src={logo} alt="logo" /></a>
             <div className="navigation">
-                <a className="navigation-link" href="/">Nos ANIMAUX</a>
+                <a className="navigation-link" href="/">Nos AMIS</a>
                 <a className="navigation-link" href="/">À PROPOS</a>
                 <a className="navigation-link" href="/">CONTACT</a>
-
             </div>
             
         </div>
